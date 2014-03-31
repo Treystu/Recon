@@ -1,0 +1,8 @@
+Recon To Do:
+
+1) 	Upon "Please enter a new Computername or IP:"
+	Clear variables, so that enter doesn't use last known IP.
+ 	(Set Default to loop)
+2)	
+	
+	

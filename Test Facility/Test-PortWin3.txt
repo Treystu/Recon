@@ -1,0 +1,13 @@
+
+
+
+$t = New-Object Net.Sockets.TcpClient "172.29.104.14", 135 
+
+if($t.Connected)
+{
+    "Port 443 is operational"
+}
+else
+{
+    "..."
+}
