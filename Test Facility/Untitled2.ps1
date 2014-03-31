@@ -15,7 +15,7 @@ pause
 } 
 
 $Port = 135,445,3389
-$Computer = "WGCDC01"
+$Computer = "hostname"
 
 $i = 1
 

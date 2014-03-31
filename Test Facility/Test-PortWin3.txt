@@ -1,7 +1,7 @@
 
 
 
-$t = New-Object Net.Sockets.TcpClient "172.29.104.14", 135 
+$t = New-Object Net.Sockets.TcpClient "xx.xx.xx.xx", 135 
 
 if($t.Connected)
 {

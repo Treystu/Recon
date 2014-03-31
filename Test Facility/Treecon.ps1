@@ -8,4 +8,4 @@ write-host "$tryit"
 
 Testing
 
-$Computer="172.29.204.16"
+$Computer="xx.xx.xx.xx"

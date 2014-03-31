@@ -75,7 +75,7 @@ function CheckHost{
 
 function GetBadMenu {
 	Clear-Host
-	"  /----------------------\" 
+    "  /----------------------\" 
     " |         Recon          |" 
     "  \----------------------/" 
     "  $compname ($pcip) "
@@ -110,7 +110,7 @@ function GetInfoBad{
 #create Menu Look
 function GetMenu {
 	Clear-Host
-	"  /----------------------\" 
+    "  /----------------------\" 
     " |         Recon          |" 
     "  \----------------------/" 
     "  $compname ($pcip)" 
@@ -373,7 +373,7 @@ function GetInfohardware{
 #  Please Utilize a "Reserved" slot, and remember to change both the   #
 #       "Menu" and the "Command" sections to reflect your script.      #
 #                            Variables:                                #
-#                     $compname Ex: wgcdc01                            #
+#                     $compname Ex: Hostname                           #
 #                      $pcip Ex: 127.0.0.1                             #
 #           Please leave the "pause" and "Experimental"                #
 #                   lines following your command                       #
