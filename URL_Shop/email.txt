@@ -1,0 +1,2 @@
+A Change has been detected on the Cantillon(top level) Webshop!
+old.txt: 2603 words 781 30% common 1780 68% deleted 42 2% changed current.txt: 826 words 781 95% common 0 0% inserted 45 5% changed

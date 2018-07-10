@@ -1,0 +1,2 @@
+A Change has been detected on the Cantillon Webshop (Beer Section)!
+old.txt: 629 words 602 96% common 0 0% deleted 27 4% changed current.txt: 673 words 602 89% common 47 7% inserted 24 4% changed
